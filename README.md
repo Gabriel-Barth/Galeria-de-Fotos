@@ -2,8 +2,10 @@
 MyGallery - Feito com Sass
 
 
-### Imagens Adquiridas no site Pexels:
+### Imagens Gratuítas Adquiridas no site Pexels:
 
 ```
 https://www.pexels.com/pt-br/
 ```
+###  Ícones usados :
+`Awsome Icons`  
